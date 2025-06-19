@@ -1,0 +1,4 @@
+flag provided but not defined: -stdio
+Usage of ./figma-mcp-server:
+  -port int
+    	服务器端口 (default 3333)
